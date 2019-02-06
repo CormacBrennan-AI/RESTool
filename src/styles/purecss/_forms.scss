@@ -224,10 +224,10 @@ since IE8 won't execute CSS that contains a CSS3 selector.
     align-items: center;
 
     label {
-      text-align: right;
+      text-align: left;
       display: inline-block;
       vertical-align: middle;
-      width: 10em;
+      width: 12em;
       margin: 0 1em 0 0;
     }
   }
